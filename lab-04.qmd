@@ -43,6 +43,6 @@ To commit changes, go to the "Git" tab in the top right section of RStudio and s
 
 ### Pushing Changes to a Repository:
 
-To push the changes to the repository, you will have wanted to have already committed the changes. Now, the "Git" tab will tell you how far ahead you are of the original repository you forked from. Press the green "Push" button to make the changes reflect in your forked repository on GitHub. This should run automatically.
+To push the changes to the repository, you will have wanted to have already committed the changes. Now, the "Git" tab will tell you how far ahead you are of the original repository you forked from. Press the green "Push" button to make the changes reflect in your forked repository on GitHub. This should run automatically. You can close the window once it is done pushing.
 
 # Assessing my Progress
