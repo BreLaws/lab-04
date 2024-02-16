@@ -19,6 +19,8 @@ The computing environment is the hardware, operating system, and software used f
 
 ## How GitHub supports reproducible research:
 
+GitHub is a project management site that allows users to communicate with one another, as well as clone the repositories of others. It supports reproducible research by actively allowing people to replicate the work of others through the use of code sharing.
+
 # Project Management
 
 ## Steps for Labs:
@@ -46,3 +48,5 @@ To commit changes, go to the "Git" tab in the top right section of RStudio and s
 To push the changes to the repository, you will have wanted to have already committed the changes. Now, the "Git" tab will tell you how far ahead you are of the original repository you forked from. Press the green "Push" button to make the changes reflect in your forked repository on GitHub. This should run automatically. You can close the window once it is done pushing.
 
 # Assessing my Progress
+
+I feel a lot more confident after doing this lab in my ability to work between RStudio and GitHub. I feel well set up for the next lab and I am excited to see what's next :-)
