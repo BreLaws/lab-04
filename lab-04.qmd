@@ -1,0 +1,44 @@
+---
+title: "Lab 04: Scaffolding Reproducible Research"
+author: "Breanna Laws"
+format: html
+editor: visual
+number-sections: true
+number-depth: 3
+---
+
+# Reproducible Research
+
+## What it is:
+
+Reproducible research is the idea that a project can be replicated at any point in time by any person to perfection. For example, one can clone a public project in Git and perfectly copy someone's code because it is all completely available to them. Essentially, it is about sharing data with ease. It involves two components: the computing environment and the project structure.
+
+## "Computing Environment" vs "Project Structure":
+
+The computing environment is the hardware, operating system, and software used for a project. The project structure is the organization of the files and folders that make up a project. The project structure is nested within the computer environment.
+
+## How GitHub supports reproducible research:
+
+# Project Management
+
+## Steps for Labs:
+
+### Forking:
+
+To fork a project, go to the repository you are looking to fork on GitHub. In the upper right-hand corner, click on the drop-down menu under "fork." Select "create new fork." You will get the option to rename the repository, but that is not necessary. You now have your own editable repository which contains the information in the original repository. You can compare these at any time while making edits.
+
+### Cloning:
+
+To clone a lab, press the green "\<\> Code" button in the right-hand corner. Clone using the web URL under the HTTPS tab (should be the tab that automatically opens). Copy the web URL.
+
+Go into RStudio and hit "File –\> New Project –\> Version Control." Then, select "Git" and paste in the repository URL you copied previously. The name of the lab should auto-load, but if not, name the project according to the "README" instructions.
+
+### Editing:
+
+Editing can now occur as normal. You can change things in text documents, create new documents within the project, etc. As you save your edits, they will be noted under the "Git" tab in the top right section of RStudio (also contains tabs for "Environment," "History," and "Tutorial." Here, you can commit your changes and have them reflected on your GitHub account.
+
+### Committing:
+
+### Pushing Changes to a Repository:
+
+# Assessing my Progress
